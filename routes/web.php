@@ -17,7 +17,7 @@ Route::get('/', 'MainController@home')->name('home');
 
 Route::get('/about', 'MainController@about')->name('about');
 
-Route::get('/contact', 'MainController@contact')->name('contact');
+
 
 Route::get('/women/pg-1', 'MainController@women')->name('women');
 

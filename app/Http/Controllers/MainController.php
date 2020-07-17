@@ -14,10 +14,7 @@ class MainController extends Controller
     {
         return view('about');
     }
-    public function contact()
-    {
-        return view('contact');
-    }
+
     public function women()
     {
         return view('women');

@@ -52,7 +52,7 @@
               </div>
             </li>
 	          <li class="nav-item"><a href="{{route('about')}}" class="nav-link">About</a></li>
-	          <li class="nav-item"><a href="{{route('contact')}}" class="nav-link">Contact</a></li>
+	          <!-- <li class="nav-item"><a href="#" class="nav-link">Contact</a></li> -->
 	          <!-- <li class="nav-item cta cta-colored"><a href="cart.html" class="nav-link"><span class="icon-shopping_cart"></span>[0]</a></li> -->
 
 	        </ul>
@@ -65,7 +65,7 @@
 @yield('blayout')    
 
 
-<section class="ftco-section-parallax">
+<!-- <section class="ftco-section-parallax">
       <div class="parallax-img d-flex align-items-center">
         <div class="container">
           <div class="row d-flex justify-content-center py-5">
@@ -86,7 +86,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <footer class="ftco-footer bg-light ftco-section">
       <div class="container">
@@ -96,7 +96,7 @@
               <h2 class="ftco-heading-2">Roomi Designs</h2>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                 <li class="ftco-animate"><a href="https://chat.whatsapp.com/FhGx6gRn4ikHjBBivmIQGa"><span class="icon-whatsapp"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+                <!-- <li class="ftco-animate"><a href="#"><span class="icon-mail"></span></a></li> -->
                 <li class="ftco-animate"><a href="https://instagram.com/roomi_designs?igshid=14wyayszndzh6"><span class="icon-instagram"></span></a></li>
               </ul>
             </div>
@@ -108,7 +108,7 @@
                 <li><a href="{{route('home')}}" class="py-2 d-block">Home</a></li>
                 <li><a href="{{route('about')}}" class="py-2 d-block">About</a></li>
                 <!-- <li><a href="{{route('home')}}" class="py-2 d-block">Journal</a></li> -->
-                <li><a href="{{route('contact')}}" class="py-2 d-block">Contact Us</a></li>
+                <!-- <li><a href="#" class="py-2 d-block">Contact Us</a></li> -->
               </ul>
             </div>
           </div>
@@ -124,7 +124,7 @@
 	              </ul>
 	              <ul class="list-unstyled">
 	                <li><a href="#" class="py-2 d-block">FAQs</a></li>
-	                <li><a href="{{route('contact')}}" class="py-2 d-block">Contact</a></li>
+	                <li><a href="#" class="py-2 d-block">Contact</a></li>
 	              </ul>
 	            </div>
             </div>
@@ -134,7 +134,7 @@
             	<h2 class="ftco-heading-2">Have a Questions?</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
+	                <li><span class="icon icon-map-marker"></span><span class="text">Kappil House, Chemmaniyode Post, Malappuram DT, Kerala, 679325</span></li>
 	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+91 97459 73217</span></a></li>
 	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">roomidesigns@gmail.com</span></a></li>
 	              </ul>
