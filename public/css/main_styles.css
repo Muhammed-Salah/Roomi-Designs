@@ -244,14 +244,3 @@ img
 	background-position: center center;
 }
 
-.ftco-navbar-light {
-	background: #f8f9fa00 !important;
-}
-
-.ftco-navbar-light .navbar-brand {
-    color: #212529;
-}
-
-.ftco-navbar-light .navbar-toggler {
-	color: rgba(0, 0, 0, 0.5) !important;
-}

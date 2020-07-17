@@ -1,6 +1,6 @@
 @yield('servicelayout')
 
-<section class="ftco-section bg-light ftco-services">
+<section class="ftco-section  ftco-services">
     	<div class="container">
     		<div class="row justify-content-center mb-3 pb-3">
           <div class="col-md-12 heading-section text-center ftco-animate">

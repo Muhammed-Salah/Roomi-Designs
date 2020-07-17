@@ -43,7 +43,7 @@
 	        <ul class="navbar-nav ml-auto">
 	          <li class="nav-item"><a href="{{route('home')}}" class="nav-link">Home</a></li>
 	          <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Shop</a>
+              <a class="nav-link dropdown-toggle" href="dropdown" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Shop</a>
               <div class="dropdown-menu" aria-labelledby="dropdown04">
               	<a class="dropdown-item" href="{{route('women')}}">Women</a>
                 <a class="dropdown-item" href="{{route('kids')}}">Kids</a>

@@ -27,15 +27,15 @@ Roomi Designs
 										<div class="home_items">
 											<div class="row">
 												<div class="col-sm-3 offset-lg-1">
-													<div class="home_item_side"><a href="{{route('product')}}"><img src="{{elixir('images/home_1.jpg')}}" alt=""></a></div>
+													<div class="home_item_side"><img src="{{elixir('images/product/women/19.jpg')}}" alt=""></a></div>
 												</div>
 												<div class="col-lg-4 col-md-6 col-sm-8 offset-sm-2 offset-md-0">
 													<div class="product home_item_large">
-														<div class="product_image"><img src="{{elixir('images/home_2.jpg')}}" alt=""></div>
+														<div class="product_image"><img src="{{elixir('images/product/kids/14.jpg')}}" alt=""></div>
 													</div>
 												</div>
 												<div class="col-sm-3">
-													<div class="home_item_side"><a href="{{route('product')}}"><img src="{{elixir('images/home_3.jpg')}}" alt=""></a></div>
+													<div class="home_item_side"><img src="{{elixir('images/product/women/4.jpg')}}" alt=""></a></div>
 												</div>
 											</div>
 										</div>
@@ -68,8 +68,8 @@ Roomi Designs
     				<div class="product-slider owl-carousel ftco-animate">
     					<div class="item">
 		    				<div class="product">
-		    					<a href="#" class="img-prod"><img class="img-fluid" src="{{elixir('images/product-1.jpg')}}" alt="Colorlib Template">
-		    						<span class="status">30%</span>
+		    					<a href="#" class="img-prod"><img class="img-fluid" src="{{elixir('images/product/women/1.jpg')}}" alt="Colorlib Template">
+		    						
 		    					</a>
 		    					<div class="text pt-3 px-3">
 		    						<h3><a href="#">Young Woman Wearing Dress</a></h3>
@@ -77,89 +77,57 @@ Roomi Designs
 		    							<div class="pricing">
 			    							<p class="price"><span class="mr-2 price-dc">$120.00</span><span class="price-sale">$80.00</span></p>
 			    						</div>
-			    						<div class="rating">
-			    							<p class="text-right">
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    							</p>
-			    						</div>
+			    						
 		    						</div>
 		    					</div>
 		    				</div>
 	    				</div>
 	    				<div class="item">
 		    				<div class="product">
-		    					<a href="#" class="img-prod"><img class="img-fluid" src="{{elixir('images/product-2.jpg')}}" alt="Colorlib Template"></a>
+		    					<a href="#" class="img-prod"><img class="img-fluid" src="{{elixir('images/product/women/2.jpg')}}" alt="Colorlib Template"></a>
 		    					<div class="text pt-3 px-3">
 		    						<h3><a href="#">Young Woman Wearing Dress</a></h3>
 		    						<div class="d-flex">
 		    							<div class="pricing">
 				    						<p class="price"><span>$120.00</span></p>
 				    					</div>
-				    					<div class="rating">
-			    							<p class="text-right">
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    							</p>
-			    						</div>
+				    					
 			    					</div>
 		    					</div>
 		    				</div>
 	    				</div>
 	    				<div class="item">
 		    				<div class="product">
-		    					<a href="#" class="img-prod"><img class="img-fluid" src="{{elixir('images/product-3.jpg')}}" alt="Colorlib Template"></a>
+		    					<a href="#" class="img-prod"><img class="img-fluid" src="{{elixir('images/product/women/3.jpg')}}" alt="Colorlib Template"></a>
 		    					<div class="text pt-3 px-3">
 		    						<h3><a href="#">Young Woman Wearing Dress</a></h3>
 		    						<div class="d-flex">
 		    							<div class="pricing">
 				    						<p class="price"><span>$120.00</span></p>
 				    					</div>
-				    					<div class="rating">
-			    							<p class="text-right">
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    							</p>
-			    						</div>
+				    					
 			    					</div>
 		    					</div>
 		    				</div>
 	    				</div>
 	    				<div class="item">
 		    				<div class="product">
-		    					<a href="#" class="img-prod"><img class="img-fluid" src="{{elixir('images/product-4.jpg')}}" alt="Colorlib Template"></a>
+		    					<a href="#" class="img-prod"><img class="img-fluid" src="{{elixir('images/product/women/4.jpg')}}" alt="Colorlib Template"></a>
 		    					<div class="text pt-3 px-3">
 		    						<h3><a href="#">Young Woman Wearing Dress</a></h3>
 		    						<div class="d-flex">
 		    							<div class="pricing">
 				    						<p class="price"><span>$120.00</span></p>
 				    					</div>
-				    					<div class="rating">
-			    							<p class="text-right">
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    							</p>
-			    						</div>
+				    					
 			    					</div>
 		    					</div>
 		    				</div>
 	    				</div>
 	    				<div class="item">
 		    				<div class="product">
-		    					<a href="#" class="img-prod"><img src="{{elixir('images/product-5.jpg')}}" alt="Colorlib Template">
-			    					<span class="status">30%</span>
+		    					<a href="#" class="img-prod"><img src="{{elixir('images/product/women/5.jpg')}}" alt="Colorlib Template">
+			    					
 			    				</a>
 		    					<div class="text pt-3 px-3">
 		    						<h3><a href="#">Young Woman Wearing Dress</a></h3>
@@ -167,37 +135,21 @@ Roomi Designs
 		    							<div class="pricing">
 			    							<p class="price"><span class="mr-2 price-dc">$120.00</span><span class="price-sale">$80.00</span></p>
 			    						</div>
-			    						<div class="rating">
-			    							<p class="text-right">
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    							</p>
-			    						</div>
+			    						
 		    						</div>
 		    					</div>
 		    				</div>
 	    				</div>
 	    				<div class="item">
 		    				<div class="product">
-		    					<a href="#" class="img-prod"><img src="{{elixir('images/product-6.jpg')}}" alt="Colorlib Template"></a>
+		    					<a href="#" class="img-prod"><img src="{{elixir('images/product/women/6.jpg')}}" alt="Colorlib Template"></a>
 		    					<div class="text pt-3 px-3">
 		    						<h3><a href="#">Young Woman Wearing Dress</a></h3>
 		    						<div class="d-flex">
 		    							<div class="pricing">
 				    						<p class="price"><span>$120.00</span></p>
 				    					</div>
-				    					<div class="rating">
-			    							<p class="text-right">
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    								<span class="ion-ios-star-outline"></span>
-			    							</p>
-			    						</div>
+				    					
 			    					</div>
 		    					</div>
 		    				</div>
@@ -244,109 +196,65 @@ Roomi Designs
     		<div class="row">
     			<div class="col-sm col-md-6 col-lg ftco-animate">
     				<div class="product">
-    					<a href="#" class="img-prod"><img class="img-fluid" src="{{elixir('images/product-1.jpg')}}" alt="Colorlib Template"></a>
+    					<a href="#" class="img-prod"><img class="img-fluid" src="{{elixir('images/product/kids/7.jpg')}}" alt="Colorlib Template"></a>
     					<div class="text py-3 px-3">
     						<h3><a href="#">Young Woman Wearing Dress</a></h3>
     						<div class="d-flex">
     							<div class="pricing">
 		    						<p class="price"><span>$120.00</span></p>
 		    					</div>
-		    					<div class="rating">
-	    							<p class="text-right">
-	    								<span class="ion-ios-star-outline"></span>
-	    								<span class="ion-ios-star-outline"></span>
-	    								<span class="ion-ios-star-outline"></span>
-	    								<span class="ion-ios-star-outline"></span>
-	    								<span class="ion-ios-star-outline"></span>
-	    							</p>
-	    						</div>
+		    					
 	    					</div>
 	    					<hr>
-    						<p class="bottom-area d-flex">
-    							<a href="#" class="add-to-cart"><span>Add to cart <i class="ion-ios-add ml-1"></i></span></a>
-    							<a href="#" class="ml-auto"><span><i class="ion-ios-heart-empty"></i></span></a>
-    						</p>
+    						
     					</div>
     				</div>
     			</div>
     			<div class="col-sm col-md-6 col-lg ftco-animate">
     				<div class="product">
-    					<a href="#" class="img-prod"><img class="img-fluid" src="{{elixir('images/product-2.jpg')}}" alt="Colorlib Template"></a>
+    					<a href="#" class="img-prod"><img class="img-fluid" src="{{elixir('images/product/kids/8.jpg')}}" alt="Colorlib Template"></a>
     					<div class="text py-3 px-3">
     						<h3><a href="#">Young Woman Wearing Dress</a></h3>
     						<div class="d-flex">
     							<div class="pricing">
 		    						<p class="price"><span>$120.00</span></p>
 		    					</div>
-		    					<div class="rating">
-	    							<p class="text-right">
-	    								<span class="ion-ios-star-outline"></span>
-	    								<span class="ion-ios-star-outline"></span>
-	    								<span class="ion-ios-star-outline"></span>
-	    								<span class="ion-ios-star-outline"></span>
-	    								<span class="ion-ios-star-outline"></span>
-	    							</p>
-	    						</div>
+		    					
 	    					</div>
 	    					<hr>
-    						<p class="bottom-area d-flex">
-    							<a href="#" class="add-to-cart"><span>Add to cart <i class="ion-ios-add ml-1"></i></span></a>
-    							<a href="#" class="ml-auto"><span><i class="ion-ios-heart-empty"></i></span></a>
-    						</p>
+    						
     					</div>
     				</div>
     			</div>
     			<div class="col-sm col-md-6 col-lg ftco-animate">
     				<div class="product">
-    					<a href="#" class="img-prod"><img class="img-fluid" src="{{elixir('images/product-3.jpg')}}" alt="Colorlib Template"></a>
+    					<a href="#" class="img-prod"><img class="img-fluid" src="{{elixir('images/product/kids/9.jpg')}}" alt="Colorlib Template"></a>
     					<div class="text py-3 px-3">
     						<h3><a href="#">Young Woman Wearing Dress</a></h3>
     						<div class="d-flex">
     							<div class="pricing">
 		    						<p class="price"><span>$120.00</span></p>
 		    					</div>
-		    					<div class="rating">
-	    							<p class="text-right">
-	    								<span class="ion-ios-star-outline"></span>
-	    								<span class="ion-ios-star-outline"></span>
-	    								<span class="ion-ios-star-outline"></span>
-	    								<span class="ion-ios-star-outline"></span>
-	    								<span class="ion-ios-star-outline"></span>
-	    							</p>
-	    						</div>
+		    					
 	    					</div>
 	    					<hr>
-    						<p class="bottom-area d-flex">
-    							<a href="#" class="add-to-cart"><span>Add to cart <i class="ion-ios-add ml-1"></i></span></a>
-    							<a href="#" class="ml-auto"><span><i class="ion-ios-heart-empty"></i></span></a>
-    						</p>
+    						
     					</div>
     				</div>
     			</div>
     			<div class="col-sm col-md-6 col-lg ftco-animate">
     				<div class="product">
-    					<a href="#" class="img-prod"><img class="img-fluid" src="{{elixir('images/product-4.jpg')}}" alt="Colorlib Template"></a>
+    					<a href="#" class="img-prod"><img class="img-fluid" src="{{elixir('images/product/kids/10.jpg')}}" alt="Colorlib Template"></a>
     					<div class="text py-3 px-3">
     						<h3><a href="#">Young Woman Wearing Dress</a></h3>
     						<div class="d-flex">
     							<div class="pricing">
 		    						<p class="price"><span>$120.00</span></p>
 		    					</div>
-		    					<div class="rating">
-	    							<p class="text-right">
-	    								<span class="ion-ios-star-outline"></span>
-	    								<span class="ion-ios-star-outline"></span>
-	    								<span class="ion-ios-star-outline"></span>
-	    								<span class="ion-ios-star-outline"></span>
-	    								<span class="ion-ios-star-outline"></span>
-	    							</p>
-	    						</div>
+		    					
 	    					</div>
 	    					<hr>
-    						<p class="bottom-area d-flex">
-    							<a href="#" class="add-to-cart"><span>Add to cart <i class="ion-ios-add ml-1"></i></span></a>
-    							<a href="#" class="ml-auto"><span><i class="ion-ios-heart-empty"></i></span></a>
-    						</p>
+    						
     					</div>
     				</div>
     			</div>
@@ -364,7 +272,7 @@ Roomi Designs
     	</div>
     </section>
 
-    <section class="ftco-section testimony-section bg-light">
+    <!-- <section class="ftco-section testimony-section bg-light">
       <div class="container">
 				<div class="row justify-content-center mb-3 pb-3">
           <div class="col-md-12 heading-section text-center ftco-animate">
@@ -452,7 +360,7 @@ Roomi Designs
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
 
     <!-- <section class="ftco-section">
