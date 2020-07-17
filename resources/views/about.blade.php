@@ -11,7 +11,7 @@ About-us
         <div class="row no-gutters slider-text align-items-center justify-content-center">
           <div class="col-md-9 ftco-animate text-center">
             <h1 class="mb-0 bread">About Us</h1>
-            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home</a></span> <span>About</span></p>
+            <p class="breadcrumbs"><span class="mr-2"><a href="{{route('home')}}">Home</a></span> <span>About</span></p>
           </div>
         </div>
       </div>
@@ -19,29 +19,49 @@ About-us
 
     <section class="ftco-section ftco-no-pb ftco-no-pt bg-light">
 			<div class="container">
+				<div style="height:20px"></div>
 				<div class="row">
-					<div class="col-md-5 p-md-5 img img-2 d-flex justify-content-center align-items-center" style="background-image: url('../assets/img/bg_2.jpg');">
-						<a href="https://vimeo.com/45830194" class="icon popup-vimeo d-flex justify-content-center align-items-center">
+					<div class="col-md-5 p-md-5 img img-2 d-flex justify-content-center align-items-center" style="background-image: url('../images/about2.jpeg');">
+						<!-- <a href="https://vimeo.com/45830194" class="icon popup-vimeo d-flex justify-content-center align-items-center">
 							<span class="icon-play"></span>
-						</a>
+						</a> -->
 					</div>
 					<div class="col-md-7 py-5 wrap-about pb-md-5 ftco-animate">
 	          <div class="heading-section-bold mb-5 mt-md-5">
 	          	<div class="ml-md-0">
-		            <h2 class="mb-4">Modist <br>Online <br> <span>Fashion Shop</span></h2>
+		            <h2 class="mb-4">our story</h2>
 	            </div>
 	          </div>
 	          <div class="pb-md-5">
-							<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.</p>
-							<p>When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way.</p>
+							<p>Let me tell you a story of a teenage girl who was passionate on designing, but never had any idea how to bring them out. It grows with her all day. Finally, she found her partner for life and that become a breakthrough for her childhood dream of starting a venture, this may sound usual, but that made was a turning point, and we have few designers who believe in hardworking and exploring the unknown fashion in you.</p>
 						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="ftco-section ftco-no-pb ftco-no-pt bg-light">
+			<div class="container">
+				<div style="height:50px"></div>
+				<div class="row">
+					<div class="col-md-7 py-5 wrap-about pb-md-5 ftco-animate">
+	            		<div class="heading-section-bold mb-5 mt-md-5">
+	          				<div class="ml-md-0">
+		            			<h2 class="mb-4">our vibe</h2>
+	            			</div>
+	          			</div>
+	          			<div class="pb-md-5">
+							<p> Clothing speaks a lot, it's just the visual luxury of your existence, not everything suits you, but your heart knows them, give us the hint, we will help you to figure it out, dress up! show up! Design your dreams. Let’s make a revolution together!!!</p>
+						</div>
+					</div>
+					<div class="col-md-5 p-md-5 img img-2 d-flex justify-content-center align-items-center" style="background-image: url('../images/logo2.png');">
+						
 					</div>
 				</div>
 			</div>
 		</section>
 
 
-    <section class="ftco-section testimony-section bg-light">
+    <!-- <section class="ftco-section testimony-section bg-light">
       <div class="container">
 				<div class="row justify-content-center mb-3 pb-3">
           <div class="col-md-12 heading-section text-center ftco-animate">
@@ -129,10 +149,10 @@ About-us
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
 
-    <section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url('../assets/img/bg_4.jpg');">
+    <!-- <section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url('../assets/img/bg_4.jpg');">
     	<div class="container">
     		<div class="row justify-content-center py-5">
     			<div class="col-md-10">
@@ -173,7 +193,7 @@ About-us
 	        </div>
         </div>
     	</div>
-    </section>
+    </section> -->
 
     <section class="ftco-section bg-light ftco-services">
     	<div class="container">
@@ -190,8 +210,8 @@ About-us
             		<span class="flaticon-002-recommended"></span>
               </div>
               <div class="media-body">
-                <h3 class="heading">Refund Policy</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">our promises</h3>
+                <p>Quality clothing isn’t a boundary, but your right, and our respectful assurance to your hard-earned payments, we can offer that at your doorsteps with more passion stuffed.</p>
               </div>
             </div>      
           </div>

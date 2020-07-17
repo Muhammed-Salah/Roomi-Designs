@@ -454,7 +454,7 @@ Roomi Designs
     </section>
 
 
-    <section class="ftco-section">
+    <!-- <section class="ftco-section">
       <div class="container">
         <div class="row justify-content-center mb-3 pb-3">
           <div class="col-md-12 heading-section text-center ftco-animate">
@@ -550,7 +550,7 @@ Roomi Designs
 	        </div>
         </div>
     	</div>
-    </section>
+    </section> -->
 
     <section class="ftco-section bg-light ftco-services">
     	<div class="container">
@@ -567,8 +567,8 @@ Roomi Designs
             		<span class="flaticon-002-recommended"></span>
               </div>
               <div class="media-body">
-                <h3 class="heading">Refund Policy</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">our promises</h3>
+                <p>Quality clothing isn’t a boundary, but your right, and our respectful assurance to your hard-earned payments, we can offer that at your doorsteps with more passion stuffed.</p>
               </div>
             </div>      
           </div>
